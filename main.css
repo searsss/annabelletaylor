@@ -53,7 +53,7 @@ body {
     color: #2b396c;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
     .soon {
         margin-top: 30px;
         font-size: 3em;
